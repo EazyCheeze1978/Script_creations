@@ -6,7 +6,7 @@
         Obfuscate           = $false
         HideConsoleWindow   = $false
         Name                = 'RestoreCursorWhenLaunchBoxCloses'
-        Version             = '3.1.0'
+        Version             = '3.2.0'
         Author              = 'Wade Manns'
         Description         = 'Restores the mouse cursor scheme when LaunchBox or BigBox closes.'
         Tags                = @('LaunchBox', 'BigBox', 'Cursor', 'Restore')

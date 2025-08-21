@@ -1,0 +1,12 @@
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\out\RestoreCursorWhenLaunchBoxCloses.exe.config
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\out\RestoreCursorWhenLaunchBoxCloses.exe
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\out\RestoreCursorWhenLaunchBoxCloses.pdb
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\out\Microsoft.PowerShell.ConsoleHost.dll
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\out\System.Management.Automation.dll
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.csproj.AssemblyReference.cache
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.AssemblyInfoInputs.cache
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.AssemblyInfo.cs
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.csproj.CoreCompileInputs.cache
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.csproj.CopyComplete
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.exe
+D:\Dropbox\~~VSC_Wrkspcs\Script_creations\RestoreCursorWhenLaunchBoxCloses\out\bin\ca16e4442a0249bb8bce315def7618ee\obj\Debug\net462\RestoreCursorWhenLaunchBoxCloses.pdb

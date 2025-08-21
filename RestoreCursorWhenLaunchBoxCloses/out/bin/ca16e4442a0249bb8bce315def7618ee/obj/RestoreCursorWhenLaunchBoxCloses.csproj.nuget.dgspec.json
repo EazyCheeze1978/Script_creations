@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\RestoreCursorWhenLaunchBoxCloses.csproj": {}
+  },
+  "projects": {
+    "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\RestoreCursorWhenLaunchBoxCloses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\RestoreCursorWhenLaunchBoxCloses.csproj",
+        "projectName": "RestoreCursorWhenLaunchBoxCloses",
+        "projectPath": "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\RestoreCursorWhenLaunchBoxCloses.csproj",
+        "packagesPath": "C:\\Users\\eazyc\\.nuget\\packages\\",
+        "outputPath": "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\ca16e4442a0249bb8bce315def7618ee\\NuGet.Config",
+          "C:\\Users\\eazyc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

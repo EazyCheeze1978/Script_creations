@@ -25,15 +25,8 @@ function Restore-CursorScheme {
     $SPIF_SENDCHANGE = 0x02
     [NativeMethods]::SystemParametersInfo($SPI_SETCURSORS, 0, $null, $SPIF_UPDATEINIFILE -bor $SPIF_SENDCHANGE)
 
-    # Ask the user if they want to exit the script, reminding them it can be restarted automatically with LaunchBox/BigBox
-    $exitPrompt = Read-Host "Cursor scheme restored. Press 'Y' to exit the script, or any other key to continue monitoring. If not done already, you can set this script/program to run automatically with LaunchBox/BigBox, in LB's Options/General/Startup Applications."
-    if ($exitPrompt -eq 'Y') {
-        Write-Output "Exiting script as per user request."
-        exit
-    }
-    else {
-        Write-Output "Continuing to monitor for LaunchBox/BigBox closure..."
-    }
+    # Close out!
+    exit
 }
 
 # === MAIN LOOP ===

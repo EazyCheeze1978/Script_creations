@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCAl9ZMp48oCeF5hzYqshzMvPSuyfew1T1pJWRVPFml4/1SsxEScH/o54tiYvYG3C1RsLBpMxMsTFIpoTxFTvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dropbox\\~~VSC_Wrkspcs\\Script_creations\\RestoreCursorWhenLaunchBoxCloses\\out\\bin\\f22456e653a644cb83b311c0521a335a\\RestoreCursorWhenLaunchBoxCloses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eazyc\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\eazyc\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
